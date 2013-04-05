@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=de.berlios.Pinot
+Exec=/home/Pinot/.App/ioPinot1.05-Debian7/Linux-ia32/bin/pinot-dbus-daemon
